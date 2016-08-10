@@ -18,7 +18,6 @@ public class Student {
 		// TODO Auto-generated method stub
 		return (name + "\n" + state + "\n" + city);
 	}
-	
 	public String getName() {
 		return name;
 	}
